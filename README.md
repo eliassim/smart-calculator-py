@@ -19,7 +19,7 @@ A sleek, interactive calculator built with Python and Tkinter — complete with 
 
 ## 📸 Preview
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](Screenshot.png)
 
 _(Add your own screenshot by saving it as `screenshot.png` in the same folder as your Python script)_
 
@@ -28,7 +28,7 @@ _(Add your own screenshot by saving it as `screenshot.png` in the same folder as
 1. Make sure Python is installed (version 3.6+ recommended).
 2. Download or clone the repo:
    ```bash
-   git clone https://github.com/yourusername/smart-calculator.git
+   git clone https://github.com/eliassim/smart-calculator-py.git
 # 🧮 Smart Calculator
 
 A sleek, interactive calculator built with Python and Tkinter — complete with dark/light mode toggle, history logging, auto-clear functionality, and a smooth user interface.
